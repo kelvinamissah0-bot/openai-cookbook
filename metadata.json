@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Generator",
+  "description": "A professional cinematic AI studio to generate 4K resolution videos up to 1 minute with advanced artistic styles, dynamic canvas preview, synthesizers, and real-time storyboard generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
